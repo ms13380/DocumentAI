@@ -1,4 +1,4 @@
 # DocumentAI
-This is a work in progress machine reading application, intended to be used to scan certificates of insurances, policies, and declaration pages.
-It should find key phrases, policy numbers, etc. and out put an accurate compliance report. 
+This is a WIP machine reading application, intended to be used to scan certificates of insurances, policies, and declaration pages.
+It should find key phrases, policy numbers, etc. and output an accurate compliance report. This output will either be manually entered into a secondary software, or automated as the project progresses. 
 ## Deploy page: https://ms13380.github.io/DocumentAI/
