@@ -5,4 +5,4 @@ It should find key phrases, policy numbers, etc. and output an accurate complian
 ## Deploy page: https://ms13380.github.io/DocumentAI/
 
 ## Process flow for the software:
-![alt text](https://github.com/ms13380/DocumentAI/blob/main/Processflow.png?raw=true)
+![alt text](https://github.com/ms13380/DocumentAI/blob/main/ImprovedProcessFlow_v1.1.png?raw=true)
